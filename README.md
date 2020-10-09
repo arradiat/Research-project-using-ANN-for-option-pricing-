@@ -1,2 +1,2 @@
 # Research-project-using-ANN-for-option-pricing-
-I worked on this research project during my first year of Msc in applied mathematics. 
+I worked on this research project during my first year of Msc in applied mathematics. I loved the mix between Machine learning ( more particularly Deep learning) with quanitative finance i think it's a really promising field. The work i did on this project was inspired and base on the work of Liu, Shuaiqiang, Cornelis W. Oosterlee, and Sander M. Bohte. "Pricing options and computing implied volatilities using neural networks." Risks 7.1 (2019): 16.
